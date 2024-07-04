@@ -104,6 +104,7 @@
     },
     "Acknowledgement": {
       "name": "Ver Acuse de Recibo",
+      "tablename":"Reconocimiento",
       "list": {
         "line1": "Después de completar satisfactoriamente la solicitud de Preinscripción, recibirá un acuse de recibo.",
         "line2": "Puede imprimir, descargar, enviar por correo electrónico o SMS su acuse de recibo.",
