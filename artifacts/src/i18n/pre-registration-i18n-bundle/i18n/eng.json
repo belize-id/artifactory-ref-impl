@@ -279,12 +279,12 @@
     "link_login": "LOGIN"
   },
   "login": {
-    "text": "Quick & Easy steps",
+    "text": "Welcome to Belize National ID Portal",
     "sub_text": "Pre-register for",
-    "sub_text_UID": "Unique Identification Number",
+    "sub_text_UID": "your National ID",
     "label_email_num": "Email ID or Phone Number",
-    "label_otp": "Enter OTP",
-    "action_send": "Send OTP",
+    "label_otp": "Enter Login Code",
+    "action_send": "Send Login code",
     "action_resend": "Resend",
     "action_verify": "Verify",
     "logout_msg": "User has to login with the same mobile number/Email id to access the created applications.",

@@ -278,12 +278,12 @@
     "link_login": "INICIAR SESIÓN"
   },
   "login": {
-    "text": "Pasos rápidos y fáciles",
-    "sub_text": "Pre-registro para",
-    "sub_text_UID": "Número de Identificación Único",
+    "text": "Bienvenido al Portal de Identificación Nacional de Belice",
+    "sub_text": "Preinscribirse para",
+    "sub_text_UID": "tu DNI",
     "label_email_num": "Correo electrónico o número de teléfono",
-    "label_otp": "Ingrese el OTP",
-    "action_send": "Enviar OTP",
+    "label_otp": "Ingrese el código de inicio de sesión",
+    "action_send": "Enviar código de inicio de sesión",
     "action_resend": "Reenviar",
     "action_verify": "Verificar",
     "logout_msg": "El usuario debe iniciar sesión con el mismo número de teléfono móvil o correo electrónico para acceder a las solicitudes creadas.",
