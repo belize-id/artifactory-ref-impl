@@ -458,7 +458,7 @@
     "action_modify_information": "Modificar Información",
     "action_modify_appointment": "Reservar/Modificar Cita",
     "action_cre_application": "Pre Registro",
-    "action_lost_uin": "UIN Perdido",
+    "action_lost_uin": "NID Perdido",
     "action_update_registration": "Actualizar Registro",
     "card": {
       "text_app_id": "Número de registro",
