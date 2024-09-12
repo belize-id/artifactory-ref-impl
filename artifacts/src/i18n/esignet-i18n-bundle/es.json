@@ -38,7 +38,7 @@
         "Manage-Authentication": "Permitir acceso para gestionar autenticación",
         "Manage-Service-Requests": "Permitir acceso para gestionar solicitudes de servicio",
         "Manage-Credentials": "Permitir acceso para gestionar credenciales",
-        "individual_id": "UIN/VID utilizado en el inicio de sesión"
+        "individual_id": "NID/VID utilizado en el inicio de sesión"
     },
     "l1Biometrics": {
         "scan_and_verify": "Escaneo y verificación",
@@ -55,9 +55,9 @@
         "sign_in_with_pin": "Iniciar sesión con PIN",
         "remember_me": "Recordarme",
         "login": "Iniciar sesión",
-        "uin_label_text": "UIN",
+        "uin_label_text": "NID",
         "pin_label_text": "PIN",
-        "uin_placeholder": "UIN o VID",
+        "uin_placeholder": "NID o VID",
         "pin_placeholder": "Ingresa el PIN"
     },
     "LoginQRCode": {
@@ -243,8 +243,8 @@
         "107": "La clave pública del dispositivo ha expirado",
         "108": "Falta la clave pública del dominio",
         "109": "Número solicitado de biométricos (dedo/iris) no admitido",
-        "IDA-MLC-002": "UIN no válido",
-        "IDA-MLC-003": "UIN ha sido desactivado",
+        "IDA-MLC-002": "NID no válido",
+        "IDA-MLC-003": "NID ha sido desactivado",
         "IDA-MLC-004": "VID no válido",
         "IDA-MLC-005": "ID no válido",
         "IDA-MLC-014": "Canal de notificación no registrado. El individuo debe registrarse y volver a intentarlo",
@@ -274,8 +274,8 @@
         "IDA-MPA-002": "Certificado no válido en la firma digital.",
         "IDA-MPA-003": "No se puede descifrar la solicitud.",
         "IDA-MLC-009": "Parámetro de entrada no válido",
-        "IDA-OTA-006": "UIN está bloqueado para la generación de OTP. Inténtalo de nuevo más tarde",
-        "IDA-OTA-007": "UIN está bloqueado para la validación de OTP debido a exceder el número máximo de intentos de OTP incorrectos",
+        "IDA-OTA-006": "NID está bloqueado para la generación de OTP. Inténtalo de nuevo más tarde",
+        "IDA-OTA-007": "NID está bloqueado para la validación de OTP debido a exceder el número máximo de intentos de OTP incorrectos",
         "IDA-BIA-009": "El número de registros FID no debe exceder 1.",
         "IDA-MLC-008": "No se ha seleccionado ningún tipo de autenticación",
         "IDA-MLC-010": "VID ha sido desactivado",
@@ -317,7 +317,7 @@
         "IDA-BIA-018": "No se puede procesar la solicitud debido a un problema técnico",
         "IDA-BIA-015": "Error en la validación de firma",
         "IDA-MLC-021": "Error al obtener la clave del HSM",
-        "IDA-MLC-022": "UIN está desactivado/bloqueado",
+        "IDA-MLC-022": "NID está desactivado/bloqueado",
         "IDA-MLC-023": "VID ha expirado/desactivado",
         "IDA-DPM-004": "El tipo de dispositivo y el tipo biométrico no coinciden",
         "IDA-MLC-024": "El dominio de la solicitud no coincide con el dominio de las biometrías",
