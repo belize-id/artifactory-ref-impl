@@ -95,6 +95,46 @@
       "ismandatory": "true"
     },
     {
+      "filtername": "middleName",
+    "filterlabel": {
+    "eng": "Middle Name",
+    "ara": "الاسم الأوسط",
+    "fra": "Deuxième prénom",
+    "tam": "நடுத்தர பெயர்",
+    "hin": "मध्य नाम",
+    "kan": "ಮಧ್ಯದ ಹೆಸರು",
+    "spa":"Segundo nombre"
+   },
+      "filterType": "equals",
+      "autocomplete": "false",
+      "dropdown": "false",
+      "datePicker": "false",
+      "apiName": "lostRid",
+      "fieldName": "middleName",
+      "methodCallName": "",
+      "ismandatory": "false"
+    },
+    {
+      "filtername": "maidenName",
+    "filterlabel": {
+    "eng": "Maiden Name",
+    "ara": "الاسم قبل الزواج",
+    "fra": "Nom de jeune fille",
+    "tam": "இயற்பெயர்",
+    "hin": "विवाह से पहले उपनाम",
+    "kan": "ಮೊದಲ ಹೆಸರು",
+    "spa":"Apellido de soltera"
+   },
+      "filterType": "equals",
+      "autocomplete": "false",
+      "dropdown": "false",
+      "datePicker": "false",
+      "apiName": "lostRid",
+      "fieldName": "maidenName",
+      "methodCallName": "",
+      "ismandatory": "false"
+    },
+    {
       "filtername": "lastName",
         "filterlabel": {
         "eng": "Last Name",
